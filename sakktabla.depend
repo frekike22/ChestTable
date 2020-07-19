@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1555005927 source:c:\users\o7v68p\documents\oop\sakktabla\main.cpp
+	<iostream>
+	"ChestTable.h"
+
+1555003419 c:\users\o7v68p\documents\oop\sakktabla\chesttable.h
+	<iostream>
+	<vector>
+
+1555008102 source:c:\users\o7v68p\documents\oop\sakktabla\chesttable.cpp
+	"ChestTable.h"
+	<vector>
+	<math.h>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<sstream>
+
+1555885845 source:c:\users\o7v68p\documents\oop\sakktabla_jo\chesttable.cpp
+	"ChestTable.h"
+	<vector>
+	<math.h>
+	<iostream>
+	<iomanip>
+	<sstream>
+
+1555882616 c:\users\o7v68p\documents\oop\sakktabla_jo\chesttable.h
+	<iostream>
+	<vector>
+
+1555886040 source:c:\users\o7v68p\documents\oop\sakktabla_jo\main.cpp
+	<iostream>
+	<fstream>
+	"ChestTable.h"
+
